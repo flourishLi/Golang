@@ -1,0 +1,18 @@
+{
+	
+	"ZDTalkInterfaceLocation":"/ZTalkInterface",
+	"ZDTalkInterfacePort":8015,	
+	
+	"IMHttpGroupUrl":"http://127.0.0.1:8004/interfaceServer",
+	"IMHttpUrl":"http://127.0.0.1:8003/interface",
+	"IMMessageUrl":"http://127.0.0.1:8005/interfaceServer",
+	"IMServerRecvCustomMsgNsqUrl":"127.0.0.1:4150",
+	"IMServerRecvCustomMsgNsqTopic":"BussinessServer",
+	"IMServerRecvCustomMsgNsqId":1,
+	"IMServerSendCustomMsgNsqUrl":"127.0.0.1:4150",
+	"IMServerSendCustomMsgNsqTopic":"IMServer_from_server",
+	"IMServerSendCustomMsgNsqId":1,
+	
+	"OnLineTimeSpan":15000,  
+	"AppID":7133
+}

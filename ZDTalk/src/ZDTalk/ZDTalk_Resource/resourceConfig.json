@@ -1,0 +1,6 @@
+{
+	          	  "ZDTalkInterfaceUrl":"http://127.0.0.1:8015/ZTalkInterface",
+	"ZDTalkResourceLocation" :"/ZDTalkUploadFile" ,
+	"ZDTalkResourcePort":8017,
+	"ZDTalkResourceKey" :"uploadedfile" 
+}

@@ -1,0 +1,10 @@
+{
+	"DBType":"mysql",
+	"DriverName":"mysql",
+	"UserName":"root",
+	"UserPassword":"123456",
+	"HostAddress":"127.0.0.1",
+	"Port":3306,
+	"DBName":"ztalk"
+
+}
